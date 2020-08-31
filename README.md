@@ -5,7 +5,7 @@
 
 > A prototype of Instagram to grow skills of using Real-Time DataBase. Technologies used: React.js, Sass, Firebase
 
-### 🏠 [Homepage](codeme.cl)
+### 🏠 [Homepage](https://github.com/yanachernova/Instagram/blob/master/README.md)
 
 # Create React App 
 
