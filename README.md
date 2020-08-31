@@ -3,7 +3,7 @@
   <img alt="Version" src="https://img.shields.io/badge/version-0.1.0-blue.svg?cacheSeconds=2592000" />
 </p>
 
-> Beautiful website created for my portfolio. Technology used: React.js, HTML, CSS, particle.js
+> A prototype of Instagram to grow skills of using Real-Time DataBase. Technologies used: React.js, Sass, Firebase
 
 ### 🏠 [Homepage](codeme.cl)
 
